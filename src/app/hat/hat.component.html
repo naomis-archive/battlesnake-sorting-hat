@@ -7,8 +7,8 @@
 
 <!--Render this after sorted.-->
 <div class="content" *ngIf="sorted && house">
-  <img class="banner" width="500" height="55" src={{house.banner}} />
-  <img class="flag" width="500" height="500" src={{house.image}} />
+  <img class="banner" width="500" height="55" src="../../assets/img/{{house.banner}}" />
+  <img class="flag" width="500" height="500" src="../../assets/img/{{house.image}}" />
   <p>You have been sorted into the <span class="bold">House of {{house.name}}!</span></p>
   <p class="description">{{house.description}}</p>
   <p>To show your support for your new house, customise your snake with these values:</p>

@@ -10,8 +10,8 @@ export interface HouseInt {
 export const houses: HouseInt[] = [
   {
     name: 'Aileen',
-    image: '../../assets/img/Aileen.png',
-    banner: '../../assets/img/AileenBanner.png',
+    image: 'Aileen.png',
+    banner: 'AileenBanner.png',
     description:
       'Aileen is depending on the powers of the occult and a big cup of coffee to guarantee her victory!',
     head: 'fang',
@@ -19,8 +19,8 @@ export const houses: HouseInt[] = [
   },
   {
     name: 'Joe',
-    image: '../../assets/img/Joe.png',
-    banner: '../../assets/img/JoeBanner.png',
+    image: 'Joe.png',
+    banner: 'JoeBanner.png',
     description:
       'Joe is completely fueled by carbs and promises ramen to all his supporters.',
     head: 'sand-worm',
@@ -28,16 +28,16 @@ export const houses: HouseInt[] = [
   },
   {
     name: 'Chris',
-    image: '../../assets/img/Chris.png',
-    banner: '../../assets/img/ChrisBanner.png',
+    image: 'Chris.png',
+    banner: 'ChrisBanner.png',
     description: 'Chris is here to get comfortable and make friends.',
     head: 'beluga',
     colour: '#316000',
   },
   {
     name: 'Curtis',
-    image: '../../assets/img/Curtis.png',
-    banner: '../../assets/img/CurtisBanner.png',
+    image: 'Curtis.png',
+    banner: 'CurtisBanner.png',
     description: 'We all know Curtis is cursed and he has decided to own it and become the bad boy of the group.',
     head: 'evil',
     colour: '#622BAA',
