@@ -1,0 +1,31 @@
+.content {
+  box-shadow: 0 10px 40px 0 rgb(165 178 193 / 40%),
+    0 2px 9px 0 rgb(195 195 210 / 50%);
+  border-radius: 10px;
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.battlesnake-button {
+  background-color: #736cc7;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  width: 100px;
+  margin: auto;
+}
+
+code {
+  text-align: left;
+  width: 100px;
+  display: inline-block;
+  background-color: rgb(24, 48, 85);
+  color: white;
+  padding: 0 30px;
+}
+
+.bold {
+  font-weight: bold;
+}

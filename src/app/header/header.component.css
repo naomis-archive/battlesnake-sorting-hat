@@ -1,0 +1,18 @@
+nav {
+  background-image: linear-gradient(135deg, #E80987 15%, #3E338F 100%);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.battlesnake-button {
+  background-color: #F64A91;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 1.5rem;
+}
