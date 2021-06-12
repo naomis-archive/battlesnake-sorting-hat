@@ -1,0 +1,10 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #343a40;
+}
+
+a {
+  color: #343a40;
+}
