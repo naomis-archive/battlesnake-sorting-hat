@@ -2,11 +2,11 @@
 
 Project Description
 
-![](https://img.shields.io/codeclimate/maintainability/nhcarrigan/new-repo-template)
-![](https://img.shields.io/codeclimate/issues/nhcarrigan/new-repo-template)
-![](https://img.shields.io/codeclimate/tech-debt/nhcarrigan/new-repo-template)
-![](https://img.shields.io/lgtm/alerts/github/nhcarrigan/new-repo-template)
-![](https://img.shields.io/lgtm/grade/javascript/github/nhcarrigan/new-repo-template)
+![](https://img.shields.io/codeclimate/maintainability/nhcarrigan/battlesnake-sorting-hat)
+![](https://img.shields.io/codeclimate/issues/nhcarrigan/battlesnake-sorting-hat)
+![](https://img.shields.io/codeclimate/tech-debt/nhcarrigan/battlesnake-sorting-hat)
+![](https://img.shields.io/lgtm/alerts/github/nhcarrigan/battlesnake-sorting-hat)
+![](https://img.shields.io/lgtm/grade/javascript/github/nhcarrigan/battlesnake-sorting-hat)
 
 ## Live Version
 
