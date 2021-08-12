@@ -1,16 +1,10 @@
-# Project Name
+# Battlesnake Sorting Hat
 
-Project Description
-
-![](https://img.shields.io/codeclimate/maintainability/nhcarrigan/battlesnake-sorting-hat)
-![](https://img.shields.io/codeclimate/issues/nhcarrigan/battlesnake-sorting-hat)
-![](https://img.shields.io/codeclimate/tech-debt/nhcarrigan/battlesnake-sorting-hat)
-![](https://img.shields.io/lgtm/alerts/github/nhcarrigan/battlesnake-sorting-hat)
-![](https://img.shields.io/lgtm/grade/javascript/github/nhcarrigan/battlesnake-sorting-hat)
+This was a sorting hat for the Battlesnake 2021 Summer League Caster Houses.
 
 ## Live Version
 
-This page is not yet deployed.
+This page is archived.
 
 <!--This page is currently deployed. [View the live website.]()-->
 
