@@ -8,6 +8,10 @@
     "lint": "ng lint",
     "deploy": "ng deploy"
   },
+  "engines": {
+    "node": "^16.9.1",
+    "npm": "^7.24.0"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "12.2.6",
