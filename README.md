@@ -1,6 +1,6 @@
 # Battlesnake Sorting Hat
 
-This was a sorting hat for the Battlesnake 2021 Summer League Caster Houses.
+This is a sorting hat for the Battlesnake 2021 Fall League Caster Houses.
 
 ## Live Version
 
